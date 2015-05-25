@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Playlist id="music2015">
+  <track id="0">
+    <url>wN1uZ7GU-oE</url>
+    <thumbnail>http://i.ytimg.com/vi/wN1uZ7GU-oE/1.jpg</thumbnail>
+    <titlu>Alex Velea - Din vina ta [Official video HD]</titlu>
+  </track>
+  <track id="1">
+    <url>1KJ1OEeetFo</url>
+    <thumbnail>http://i.ytimg.com/vi/1KJ1OEeetFo/1.jpg</thumbnail>
+    <titlu>Alex Velea - E marfa tare [Official video HD]</titlu>
+  </track>
+  <track id="2">
+    <url>cRgRgpSVkPE</url>
+    <thumbnail>http://i.ytimg.com/vi/cRgRgpSVkPE/1.jpg</thumbnail>
+    <titlu>Smiley </titlu>
+  </track>
+  <track id="3">
+    <url>DmnGcFPwf_o</url>
+    <thumbnail>http://i.ytimg.com/vi/DmnGcFPwf_o/1.jpg</thumbnail>
+    <titlu/>
+  </track>
+  <track id="4">
+    <url>1rdVRxgwqas</url>
+    <thumbnail>http://i.ytimg.com/vi/1rdVRxgwqas/1.jpg</thumbnail>
+    <titlu/>
+  </track>
+  <track id="5">
+    <url>L9QZWMe08IQ</url>
+    <thumbnail>http://i.ytimg.com/vi/L9QZWMe08IQ/1.jpg</thumbnail>
+    <titlu/>
+  </track>
+  <track id="6">
+    <url>_XOIEnottaA</url>
+    <thumbnail>http://i.ytimg.com/vi/_XOIEnottaA/1.jpg</thumbnail>
+    <titlu/>
+  </track>
+</Playlist>

@@ -1,0 +1,19 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xs:element name="Playlist">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="track" minOccurs="0" maxOccurs="100">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="url" type="xs:string"/>
+            <xs:element name="thumbnail" type="xs:string"/>
+            <xs:element name="titlu" type="xs:string"/>
+          </xs:sequence>
+		  <xs:attribute name="id" type="xs:string" use="required"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+	<xs:attribute name="id" type="xs:string" use="required"/>
+  </xs:complexType>
+</xs:element>
+</xs:schema> 

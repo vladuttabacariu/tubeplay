@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Playlist id="music">
+  <track id="0">
+    <url>pZ2SCNtXFyc</url>
+    <thumbnail>http://i.ytimg.com/vi/pZ2SCNtXFyc/1.jpg</thumbnail>
+    <titlu>Alex Velea - Defectul tau sunt eu [Official video HD]</titlu>
+  </track>
+  <track id="1">
+    <url>g6HXlzlip_Q</url>
+    <thumbnail>http://i.ytimg.com/vi/g6HXlzlip_Q/1.jpg</thumbnail>
+    <titlu>Mario Fresh feat. Alex Velea - Am ramas cu gandul la tine</titlu>
+  </track>
+  <track id="2">
+    <url>jsRP3CnG0e4</url>
+    <thumbnail>http://i.ytimg.com/vi/jsRP3CnG0e4/1.jpg</thumbnail>
+    <titlu>Andreea Balan - Trippin (Official Music Video 2010)</titlu>
+  </track>
+  <track id="3">
+    <url>PoeEGBwAots</url>
+    <thumbnail>http://i.ytimg.com/vi/PoeEGBwAots/1.jpg</thumbnail>
+    <titlu>Andreea Banica - Acelasi iubit (Official Video)</titlu>
+  </track>
+  <track id="4">
+    <url>OgOhlkR6sH4</url>
+    <thumbnail>http://i.ytimg.com/vi/OgOhlkR6sH4/1.jpg</thumbnail>
+    <titlu>Andreea Banica feat. What's Up - In lipsa ta (Official Single)</titlu>
+  </track>
+  <track id="5">
+    <url>AFbse2OX7TI</url>
+    <thumbnail>http://i.ytimg.com/vi/AFbse2OX7TI/1.jpg</thumbnail>
+    <titlu>Andreea Banica - Sexy (Official Single)</titlu>
+  </track>
+</Playlist>

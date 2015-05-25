@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Playlist id="maroon5">
+  <track id="fwK7ggA3-bU">
+    <url>fwK7ggA3-bU</url>
+    <thumbnail>https://i.ytimg.com/vi/fwK7ggA3-bU/default.jpg</thumbnail>
+    <titlu>Maroon 5 - One More Night</titlu>
+  </track>
+  <track id="09R8_2nJtjg">
+    <url>09R8_2nJtjg</url>
+    <thumbnail>https://i.ytimg.com/vi/09R8_2nJtjg/default.jpg</thumbnail>
+    <titlu>Maroon 5 - Sugar</titlu>
+  </track>
+  <track id="MU8B4XDI3Uw">
+    <url>MU8B4XDI3Uw</url>
+    <thumbnail>https://i.ytimg.com/vi/MU8B4XDI3Uw/default.jpg</thumbnail>
+    <titlu>Maroon 5 - Love Somebody</titlu>
+  </track>
+  <track id="nIjVuRTm-dc">
+    <url>nIjVuRTm-dc</url>
+    <thumbnail>https://i.ytimg.com/vi/nIjVuRTm-dc/default.jpg</thumbnail>
+    <titlu>Maroon 5 - She Will Be Loved</titlu>
+  </track>
+</Playlist>

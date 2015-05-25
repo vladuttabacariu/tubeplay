@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Playlist id="music2015">
+  <track id="0">
+    <url>iEPTlhBmwRg</url>
+    <thumbnail>http://i.ytimg.com/vi/iEPTlhBmwRg/1.jpg</thumbnail>
+    <titlu>Maroon 5 - Moves Like Jagger ft. Christina Aguilera</titlu>
+  </track>
+  <track id="1">
+    <url>6g6g2mvItp4</url>
+    <thumbnail>http://i.ytimg.com/vi/6g6g2mvItp4/1.jpg</thumbnail>
+    <titlu>Maroon 5 - Misery</titlu>
+  </track>
+  <track id="2">
+    <url>5FlQSQuv_mg</url>
+    <thumbnail>http://i.ytimg.com/vi/5FlQSQuv_mg/1.jpg</thumbnail>
+    <titlu>Maroon 5 - Payphone (Lyric Video) ft. Wiz Khalifa</titlu>
+  </track>
+  <track id="3">
+    <url>hLQl3WQQoQ0</url>
+    <thumbnail>http://i.ytimg.com/vi/hLQl3WQQoQ0/1.jpg</thumbnail>
+    <titlu>Adele - Someone Like You</titlu>
+  </track>
+  <track id="4">
+    <url>FlsBObg-1BQ</url>
+    <thumbnail>http://i.ytimg.com/vi/FlsBObg-1BQ/1.jpg</thumbnail>
+    <titlu>Adele - Set Fire to the Rain Lyrics</titlu>
+  </track>
+  <track id="5">
+    <url>xBcMKwbMEcQ</url>
+    <thumbnail>http://i.ytimg.com/vi/xBcMKwbMEcQ/1.jpg</thumbnail>
+    <titlu>Adele - Set fire to the rain</titlu>
+  </track>
+</Playlist>
